@@ -59,3 +59,5 @@ Simplicity, also known as visual economy, means only showing what is essential i
 
 ### Gradation
 Gradation refers to any gradual change that occurs by a series of steps, degrees, or stages where there is an obvious visual shift from one state to another. Gradation is most apparent when you shift your design's elements in size and color. Gradation can be added to value, direction, line, shape, and texture. Gradations in shape and size can create linear perspective or flow within the layout.
+
+Source: Lynda.com: Design Aesthetics for the Web
