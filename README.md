@@ -31,20 +31,28 @@ The rigth fonts in the right sizes and colors can help improve readability. and 
 ### Order
 
 ### Contrast
+Contrast can be used to set areas of interest.
 
 ### Emphasis
+Font styles can be applied to show emphasis.
 
 ### Balance
+Objects can be aligned to achieve balance.
 
 ### Unity
+Hyperlink styles can be used to create unity with other text within a design.
 
 ### Pattern
+Background patterns can help keep a design organized and provide a sense of harmony through the use of repeating elements.
 
 ### Movement
+Movement can be achieved through various scrolling and animation effects. Line and shapes can also create implied movement.
 
 ### Rhythm and Repetition
+Rhythm and repetition occurs when one or more elements in a design are repeated often enough to create a visual rhythm. Some degree of variation of repetition works best to combat monotony. For example, widths can be changed or shapes can be varied a little within a repeating set of buttons. Border styles can also be used to add rhythm. Border styles can create a simple rhythm when applied to tables.
 
 ### Propotion
+Proportion can bring a sense of balance, emphasis, and harmony to a design, and can clue viewers into a design so they know which items are more important than others. Proportion is the visual relationship between two moremore things in terms of their size, number, and degree. Proportion can be thought of as tiered dominance where elements relate to each other in a way that creates a sense of hierarchy and order. Objects can be scaled to achieve proportion.
 
 ### Simplicity
 
