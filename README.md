@@ -51,9 +51,11 @@ Movement can be achieved through various scrolling and animation effects. Line a
 ### Rhythm and Repetition
 Rhythm and repetition occurs when one or more elements in a design are repeated often enough to create a visual rhythm. Some degree of variation of repetition works best to combat monotony. For example, widths can be changed or shapes can be varied a little within a repeating set of buttons. Border styles can also be used to add rhythm. Border styles can create a simple rhythm when applied to tables.
 
-### Propotion
+### Proportion
 Proportion can bring a sense of balance, emphasis, and harmony to a design, and can clue viewers into a design so they know which items are more important than others. Proportion is the visual relationship between two moremore things in terms of their size, number, and degree. Proportion can be thought of as tiered dominance where elements relate to each other in a way that creates a sense of hierarchy and order. Objects can be scaled to achieve proportion.
 
 ### Simplicity
+Simplicity, also known as visual economy, means only showing what is essential in a design.
 
 ### Gradation
+Gradation refers to any gradual change that occurs by a series of steps, degrees, or stages where there is an obvious visual shift from one state to another. Gradation is most apparent when you shift your design's elements in size and color. Gradation can be added to value, direction, line, shape, and texture. Gradations in shape and size can create linear perspective or flow within the layout.
