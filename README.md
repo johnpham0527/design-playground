@@ -31,13 +31,13 @@ The rigth fonts in the right sizes and colors can help improve readability. and 
 ### Order
 
 ### Contrast
-Contrast can be used to set areas of interest.
+Contrast can be used to set areas of interest. Contrast can be used for size, color, lines, and whitespace.
 
 ### Emphasis
-Font styles can be applied to show emphasis.
+Font styles can be applied to show emphasis. Emphasis can be achieved by varying a font's size, weight, color, and spacing.
 
 ### Balance
-Objects can be aligned to achieve balance.
+Objects can be aligned to achieve balance. Balance can be thought of as a see-saw. The grid system makes it easy to create a balanced layout. Symmetry helps keep good balance, but it is not necessarily the best solution for all design. Asymmetrical balance creates an interesting tension that draws viewers into the design. You can place several small shapes on one side, balanced by one larger shape on another, or even place a dark shape next to several light shapes. (Dark shapes appear heavier than light shapes.)
 
 ### Unity
 Hyperlink styles can be used to create unity with other text within a design.
