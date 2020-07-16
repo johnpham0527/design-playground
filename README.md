@@ -28,8 +28,6 @@ Line can be used to define and enhance shapes within the layout. Line can also b
 The rigth fonts in the right sizes and colors can help improve readability. and communicate information more effectively. In general, the two main font styles are serif and san serif. People tend to find it easier to read text set in serif fonts. A font with large x-height can improve readability on the web. Terms in typography include ascender, descender, stem, tail, and serif. Leading refers to the space between the baseline of one line of text and the baseline of another. Adjusting the line height can create a more open sense of space within a design.
 
 ## The Principles (Rules) of Design
-### Order
-
 ### Contrast
 Contrast can be used to set areas of interest. Contrast can be used for size, color, lines, and whitespace.
 
